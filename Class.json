@@ -1,0 +1,54 @@
+{
+  "class": [
+    {
+      "id": "3",
+      "school-id": "3",
+      "status": "ACTIVE",
+      "students": [
+        {
+          "assignment": ""
+        }
+      ]
+    },
+    {
+      "id": 671,
+      "school-id": "3",
+      "status": "ACTIVE",
+      "students": [
+        {
+          "assignment": ""
+        }
+      ]
+    },
+    {
+      "id": 856,
+      "school-id": "2",
+      "status": "ACTIVE",
+      "students": [
+        {
+          "assignment": ""
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "school-id": "3",
+      "status": "ACTIVE",
+      "students": [
+        {
+          "assignment": ""
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "school-id": "1",
+      "status": "ACTIVE",
+      "students": [
+        {
+          "assignment": ""
+        }
+      ]
+    }
+  ]
+}

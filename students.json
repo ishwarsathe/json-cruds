@@ -1,0 +1,44 @@
+{
+    "students": [
+        {
+            "id": "A101",
+            "rollno": "01",
+            "lastname": "LastnameA101",
+            "middlename": "",
+            "firstname": "StudentA101",
+            "dateOfJoining": "2021-02-13"
+        },
+        {
+            "id": "A102",
+            "rollno": "02",
+            "lastname": "LastnameA102",
+            "middlename": "",
+            "firstname": "StudentA102",
+            "dateOfJoining": "2021-04-24"
+        },
+        {
+            "id": "B101",
+            "rollno": "01",
+            "lastname": "LastnameB101",
+            "middlename": "",
+            "firstname": "StudentB101",
+            "dateOfJoining": "2020-10-20"
+        },
+        {
+            "id": "B102",
+            "rollno": "02",
+            "lastname": "LastnameB102",
+            "middlename": "",
+            "firstname": "StudentB102",
+            "dateOfJoining": "2020-02-18"
+        },
+        {
+            "id": "B103",
+            "rollno": "03",
+            "lastname": "LastnameB103",
+            "middlename": "",
+            "firstname": "StudentB103",
+            "dateOfJoining": "2020-06-16"
+        }
+    ]
+}
